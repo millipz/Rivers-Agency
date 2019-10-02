@@ -3,7 +3,7 @@ intro:
   heading: It's Nice To Meet You
   btn: Tell Me More
 
-gigs:
+services:
   heading: Gigs
   subheading: see The Rivers live
   service:
@@ -17,8 +17,8 @@ gigs:
       heading: Web Security
       text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
 
-watch:
-  heading: Portfolio
+portfolio:
+  heading: Watch
   subheading: Lorem ipsum dolor sit amet consectetur.
 
 about:
