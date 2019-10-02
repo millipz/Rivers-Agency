@@ -4,9 +4,9 @@ menu-string:
 
 nav:
   - title: Gigs
-    url: '#gigs'
+    url: '#services'
   - title: Watch
-    url: '#watch'
+    url: '#portfolio'
   - title: About
     url: '#about'
   - title: Contact
