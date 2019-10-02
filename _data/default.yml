@@ -1,34 +1,26 @@
 brand:
-  name: Start Bootstrap
-menu-string: Menu
+  name: The Rivers
+menu-string: 
 
 nav:
-  - title: Services
-    url: '#services'
-  - title: Portfolio
-    url: '#portfolio'
+  - title: Gigs
+    url: '#gigs'
+  - title: Watch
+    url: '#watch'
   - title: About
     url: '#about'
-  - title: Team
-    url: '#team'
   - title: Contact
     url: '#contact'
 
-copyright: Copyright &copy; Your Website 2018
+copyright: Copyright &copy; The Rivers 2019
 
 social-buttons:
   - icon: fa fa-twitter
-    url: '#' 
+    url: 'https://twitter.com/riversacapella' 
   - icon: fa fa-facebook
-    url: '#'
-  - icon: fa fa-linkedin
-    url: '#'
+    url: 'https://www.facebook.com/theriversacapella/'
 
 quicklinks:
-  - title: Privacy Policy
-    url: '#'
-  - title: Terms of Use
-    url: '#'
 
 modal:
   date-string: 'Date: '
