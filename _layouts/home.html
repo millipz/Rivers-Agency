@@ -64,7 +64,7 @@ layout: default
                   <div class="timeline-body">
                     <p class="text-muted">{{ time.text  }}</p>
                     {% unless timeline.link == "" %}
-                    <a href="{{time.link}}">Buy Tickets</a>
+                    <button onclick="window.location.href='{{time.link}}'">Buy Tickets</button>
                     {% endunless %}
                   </div>
                 </div>
