@@ -12,6 +12,7 @@
     @include heading-font;
   }
   .navbar-brand {
+    height: 75px;
     color: $primary;
     @include script-font;
     &.active,
@@ -48,6 +49,7 @@
     border: none;
     background-color: transparent;
     .navbar-brand {
+      height: 150px;
       font-size: 1.75em;
       -webkit-transition: all 0.3s;
       -moz-transition: all 0.3s;
@@ -63,8 +65,9 @@
     &.navbar-shrink {
       padding-top: 0;
       padding-bottom: 0;
-      background-color: $gray-900;
+      background-color: $gray-700;
       .navbar-brand {
+        height: 50px;
         font-size: 1.25em;
         padding: 12px 0;
       }
