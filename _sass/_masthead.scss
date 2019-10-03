@@ -23,6 +23,7 @@ header.masthead {
       line-height: 50px;
       margin-bottom: 25px;
       @include heading-font;
+      letter-spacing: 1em;
     }
   }
 }
