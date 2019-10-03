@@ -27,3 +27,7 @@ youtube: 8dZcPuN0EHM
 ```
 
 - Upload this file to [_projects](https://github.com/millipz/RiversWebsite/tree/master/_projects)
+
+## To edit CSS
+
+Have a go!
