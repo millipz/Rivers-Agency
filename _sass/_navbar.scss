@@ -21,6 +21,9 @@
     &:hover {
       color: darken($primary, 10%);
     }
+    img {
+      max-height: 100%;
+    }
   }
   .navbar-nav {
     .nav-item {
