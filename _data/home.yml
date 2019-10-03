@@ -19,11 +19,11 @@ services:
 
 portfolio:
   heading: Watch
-  subheading: Lorem ipsum dolor sit amet consectetur.
+  subheading: turn up the sound and enjoy!
 
 about:
   heading: Gigs
-  subheading: Upcoming appearances.
+  subheading: Upcoming appearances
   timeline:
     - image: img/gigs/aber.jpg
       date: Fri 1st Nov
