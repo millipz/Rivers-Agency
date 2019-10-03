@@ -3,11 +3,11 @@ based on [vrachas' Agency Theme](https://github.com/SotiriosVrachas/jekyll-theme
 
 ## Editing Guide
 
-- [Get a GitHub account](https://github.com/join)
+- [Get a GitHub account](https://github.com/join) and request access from millipz
 
 ### To edit copy
 
-- Edit copy in [/_data/home.yml](https://github.com/millipz/RiversWebsite/blob/master/_data/home.yml) and create a pull request
+- Edit copy in [/_data/home.yml](https://github.com/millipz/RiversWebsite/blob/master/_data/home.yml)
 
 ### To add/remove gigs
 
