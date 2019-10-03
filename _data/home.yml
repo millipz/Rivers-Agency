@@ -29,31 +29,31 @@ about:
       date: Fri 1st Nov
       title: Abergavenny
       text: 8pm Abergavenny Methodist Church, with special guests Abercapella
-      link: aber.rivs.uk
+      link: http://aber.rivs.uk
       
     - image: img/gigs/nwales.jpg
       date: Sat 2nd Nov
       title: North Wales
       text: 7.30pm Trelawnyd Village Hall, with special guests Gwaenysgor Community Choir
-      link: aber.rivs.uk
+      link: http://aber.rivs.uk
 
     - image: img/gigs/brum.jpg
       date: Sun 3rd Nov
       title: Birmingham
       text: 7.45pm Moseley Community Club, with special guests Moseley Voices
-      link: brum.rivs.uk
+      link: http://brum.rivs.uk
       
     - image: img/gigs/london.jpg
       date: Thu 5th Dec
       title: London
       text: 7pm Islington Assembly Hall (supporting Bennett Wilson Poole)
-      link: london.rivs.uk
+      link: http://london.rivs.uk
       
     - image: img/gigs/guildford.jpg
       date: Sun 8th Dec
       title: Guildford
       text: St Mary's Church, Horsell
-      link: london.rivs.uk
+      link: http://london.rivs.uk
 
   end1: More dates
   end2: to be
