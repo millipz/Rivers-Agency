@@ -45,6 +45,7 @@ header.masthead {
         line-height: 75px;
         margin-bottom: 50px;
         @include heading-font;
+        letter-spacing: 2em;
       }
     }
   }
