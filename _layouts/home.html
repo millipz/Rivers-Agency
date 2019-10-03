@@ -63,9 +63,9 @@ layout: default
                   </div>
                   <div class="timeline-body">
                     <p class="text-muted">{{ time.text  }}</p>
-                    {%- if timeline.link -%}
+                    {% unless timeline.link == "" %}
                     <a href="{{time.link}}">Buy Tickets</a>
-                    {%- endif -%}
+                    {% endunless %}
                   </div>
                 </div>
               </li>
