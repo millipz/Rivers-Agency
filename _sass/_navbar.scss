@@ -1,6 +1,6 @@
 // Styling for the navbar
 #mainNav {
-  background-color: color.scale($primary, $lightness: 10%);
+  background-color: darken($primary, 10%);
   .navbar-toggler {
     font-size: 12px;
     right: 0;
