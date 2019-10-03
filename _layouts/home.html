@@ -80,7 +80,7 @@ layout: default
               {% assign ws = '' %}
               <li{% cycle '', ' class="timeline-inverted"' %}>
                 <div class="timeline-image">
-                  <img class="rounded-circle img-fluid" src="{{ assets_path }}{{ time.image }}" alt="">
+                  <a href="{{time.link}}"><img class="rounded-circle img-fluid" src="{{ assets_path }}{{ time.image }}" alt=""></a>
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
