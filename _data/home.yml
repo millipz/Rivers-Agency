@@ -22,29 +22,42 @@ portfolio:
   subheading: Lorem ipsum dolor sit amet consectetur.
 
 about:
-  heading: About
-  subheading: Lorem ipsum dolor sit amet consectetur.
+  heading: Gigs
+  subheading: Upcoming appearances.
   timeline:
-    - image: img/about/1.jpg
-      date: 2009-2011
-      title: Our Humble Beginnings
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
-    - image: img/about/2.jpg
-      date: March 2011
-      title: An Agency is Born
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
-    - image: img/about/3.jpg
-      date: December 2012
-      title: Transition to Full Service
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
-    - image: img/about/4.jpg
-      date: July 2014
-      title: Phase Two Expansion
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+    - image: img/gigs/aber.jpg
+      date: Fri 1st Nov
+      title: Abergavenny
+      text: 8pm Abergavenny Methodist Church, with special guests Abercapella
+      link: aber.rivs.uk
+      
+    - image: img/gigs/nwales.jpg
+      date: Sat 2nd Nov
+      title: North Wales
+      text: 7.30pm Trelawnyd Village Hall, with special guests Gwaenysgor Community Choir
+      link: aber.rivs.uk
 
-  end1: Be Part
-  end2: Of Our
-  end3: Story!
+    - image: img/gigs/brum.jpg
+      date: Sun 3rd Nov
+      title: Birmingham
+      text: 7.45pm Moseley Community Club, with special guests Moseley Voices
+      link: brum.rivs.uk
+      
+    - image: img/gigs/london.jpg
+      date: Thu 5th Dec
+      title: London
+      text: 7pm Islington Assembly Hall (supporting Bennett Wilson Poole)
+      link: london.rivs.uk
+      
+    - image: img/gigs/guildford.jpg
+      date: Sun 8th Dec
+      title: Guildford
+      text: St Mary's Church, Horsell
+      link: london.rivs.uk
+
+  end1: Subscrive
+  end2: to
+  end3: Updates!
 
 contact:
   heading: Contact Us
