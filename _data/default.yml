@@ -4,11 +4,9 @@ brand:
 menu-string: 
 
 nav:
-  - title: Gigs
-    url: '#services'
   - title: Watch
     url: '#portfolio'
-  - title: About
+  - title: Gigs
     url: '#about'
   - title: Contact
     url: '#contact'
