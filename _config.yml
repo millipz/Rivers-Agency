@@ -1,11 +1,18 @@
-title: 'The Rivers'
-description: 'Homepage of The Rivers - the groove-driven Oxford based acapella group'
-author: 'Miles Phillips'
-
+---
+title: The Rivers
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  projects:
+    title: Projects
+    output: false
+  uploads:
+    title: Uploads
+    output: true
+description: Homepage of The Rivers - the groove-driven Oxford based acapella group
+author: Miles Phillips
 sass:
   style: compressed
-
-assets_path: '' 
-
-collections:
-  projects:
+assets_path: ''
