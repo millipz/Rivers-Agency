@@ -26,33 +26,39 @@ about:
   subheading: upcoming appearances
   timeline:
     - image: img/gigs/aber.jpg
-      date: Fri 1st Nov
+      date: Fri 1st Nov 2019
       title: Abergavenny
       text: 8pm Abergavenny Methodist Church, with special guests Abercapella
       link: http://aber.rivs.uk
       
     - image: img/gigs/nwales.jpg
-      date: Sat 2nd Nov
+      date: Sat 2nd Nov 2019
       title: North Wales
       text: 7.30pm Trelawnyd Village Hall, with special guests Gwaenysgor Community Choir
       link: http://nwales.rivs.uk
 
     - image: img/gigs/brum.jpg
-      date: Sun 3rd Nov
+      date: Sun 3rd Nov 2019
       title: Birmingham
       text: 7.45pm Moseley Community Club, with special guests Moseley Voices
       link: http://brum.rivs.uk
       
     - image: img/gigs/london.jpg
-      date: Thu 5th Dec
+      date: Thu 5th Dec 2019
       title: London
       text: 7pm Islington Assembly Hall (supporting Bennett Wilson Poole)
       link: http://london.rivs.uk
       
     - image: img/gigs/guildford.jpg
-      date: Sun 8th Dec
+      date: Sun 8th Dec 2019
       title: Guildford
       text: St Mary's Church, Horsell
+      link: ""
+
+    - image: img/gigs/sje.jpg
+      date: Fri 3rd Apr 2020
+      title: Oxford
+      text: SJE Arts
       link: ""
 
   end1: more
