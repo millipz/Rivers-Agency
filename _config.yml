@@ -16,3 +16,5 @@ author: Miles Phillips
 sass:
   style: compressed
 assets_path: ''
+exclude:
+  - assets/vendor
