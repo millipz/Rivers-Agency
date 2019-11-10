@@ -10,26 +10,6 @@ portfolio:
 about:
   heading: Gigs
   subheading: upcoming appearances
-  subheading-2: previous appearances
-  timeline-past:
-    - image: img/gigs/aber.jpg
-      date: Fri 1st Nov 2019
-      title: Abergavenny
-      text: 8pm Abergavenny Methodist Church, with special guests Abercapella
-      link: http://aber.rivs.uk
-
-    - image: img/gigs/nwales.jpg
-      date: Sat 2nd Nov 2019
-      title: North Wales
-      text: 7.30pm Trelawnyd Village Hall, with special guests Gwaenysgor Community Choir
-      link: http://nwales.rivs.uk
-
-    - image: img/gigs/brum.jpg
-      date: Sun 3rd Nov 2019
-      title: Birmingham
-      text: 7.45pm Moseley Community Club, with special guests Moseley Voices
-      link: http://brum.rivs.uk
-
   timeline:
     - image: img/gigs/london.jpg
       date: Thu 5th Dec 2019
