@@ -11,7 +11,8 @@ about:
   heading: Gigs
   subheading: upcoming appearances
   timeline:
-      - image: img/gigs/steventon.jpg
+  
+    - image: img/gigs/steventon.jpg
       date: Fri 29th Oct 2021
       title: Steventon
       text: St Michael and All Angels, Supporting Katy Rose Bennett
