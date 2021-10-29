@@ -11,11 +11,11 @@ about:
   heading: Gigs
   subheading: upcoming appearances
   timeline:
-    - image: img/gigs/sje.jpg
-      date: Date TBC
-      title: Oxford
-      text: SJE Arts
-      link: 
+      - image: img/gigs/steventon.jpg
+      date: Fri 29th Oct 2021
+      title: Steventon
+      text: St Michael and All Angels, Supporting Katy Rose Bennett
+      link: http://wegottickets.com/event/526844/
 
   end1: more
   end2: dates coming
@@ -23,6 +23,7 @@ about:
 
   subheading-2: previous appearances
   timeline-past:
+
     - image: img/gigs/aber.jpg
       date: Fri 1st Nov 2019
       title: Abergavenny
@@ -46,6 +47,8 @@ about:
       title: Guildford
       text: St Mary's Church, Horsell
       link: ""
+
+
 
 contact:
   heading: Contact Us
